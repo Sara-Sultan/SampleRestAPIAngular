@@ -1,0 +1,13 @@
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\bin\Debug\net6.0\Driver.Domain.deps.json
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\bin\Debug\net6.0\Driver.Domain.dll
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\bin\Debug\net6.0\ref\Driver.Domain.dll
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\bin\Debug\net6.0\Driver.Domain.pdb
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.GlobalUsings.g.cs
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.csproj.AssemblyReference.cache
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.AssemblyInfoInputs.cache
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.AssemblyInfo.cs
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.csproj.CoreCompileInputs.cache
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.dll
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\ref\Driver.Domain.dll
+E:\InterviewTasks\Transflo\Driver_WebAPI\Driver_WebAPI\Driver.Domain\obj\Debug\net6.0\Driver.Domain.pdb

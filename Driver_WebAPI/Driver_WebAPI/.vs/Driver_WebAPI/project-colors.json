@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b9ec6b4-70cc-4e1d-969e-3b58a591d16e": {
+      "ProjectGuid": "0b9ec6b4-70cc-4e1d-969e-3b58a591d16e",
+      "DisplayName": "Driver_WebAPI",
+      "ColorIndex": 0
+    },
+    "fb6cd287-e887-4041-996f-2ce06ef4d884": {
+      "ProjectGuid": "fb6cd287-e887-4041-996f-2ce06ef4d884",
+      "DisplayName": "Driver.Application",
+      "ColorIndex": 1
+    },
+    "fb445975-bf06-43ab-be0b-ac7d805706e1": {
+      "ProjectGuid": "fb445975-bf06-43ab-be0b-ac7d805706e1",
+      "DisplayName": "Driver.Infrastructure",
+      "ColorIndex": 2
+    },
+    "56fa4ad8-b2e5-432a-af31-c705d4e5a64e": {
+      "ProjectGuid": "56fa4ad8-b2e5-432a-af31-c705d4e5a64e",
+      "DisplayName": "Driver.Domain",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
