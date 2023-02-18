@@ -1,0 +1,33 @@
+
+<br>
+<br>
+<ejs-grid *ngIf="success" #grid [dataSource]='data' [selectedRowIndex]=1 [selectionSettings]='selectionOptions'
+          [showColumnChooser]='true'
+          [allowPaging]="true" 
+          [allowSorting]="true"
+          [allowFiltering]="true" [filterSettings]='filterSettings'
+          [allowResizing]='true'
+          [allowTextWrap]='true'
+          [toolbar]='toolbar'
+          [editSettings]='editSettings'
+          (actionBegin)="customActionbegin($event)">
+  <!--(batchAdd)="onBatchAdd($event)"-->
+  <e-columns>
+
+    <e-column field='id' [visible]='false' [isPrimaryKey]='true' headerText='ID' textAlign='Right'
+              minWidth='60' width='200' maxWidth='300'></e-column>
+    <e-column field='firstName' headerText='First Name'
+              minWidth='60' width='200' maxWidth='300'
+              [validationRules]='nameRules'></e-column>
+    <e-column field='lastName' headerText='Last Name'
+              minWidth='60' width='200' maxWidth='300'
+              [validationRules]='nameRules'></e-column>
+    <e-column field='email' headerText='Email'
+              minWidth='60' width='200' maxWidth='300'
+              [validationRules]='emailRules'></e-column>
+    <e-column field='phoneNumber' headerText='Phone Number'
+              minWidth='60' width='200' maxWidth='300'
+              [validationRules]='phoneRules'></e-column>
+
+  </e-columns>
+</ejs-grid>
